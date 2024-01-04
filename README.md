@@ -4,6 +4,9 @@ Buzzer music I started whilst studying at the University of Trinidad &amp; Tobag
 Songs included:
 
 Fur Elise - Beethoven Masterpiece
-National Anthem of Trinidad & Tobago
+Forged From The Love of Liberty
 If You Want Me To Go - Farmer Nappy
+Mario Bros. Theme Song
+Children Go To School - Sparrow
+T E M P A - Tempa
 
