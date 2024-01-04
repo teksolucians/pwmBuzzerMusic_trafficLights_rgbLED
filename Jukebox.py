@@ -2,9 +2,9 @@ import RPi.GPIO as GPIO
 import time
 
 
-btn1 = 11
+btn1 = 11  #play jukebox
 buzz = 7
-btn2 = 12
+btn2 = 12   #stop jukebox
 
 
 song = 0
