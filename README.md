@@ -1,5 +1,6 @@
 # PWM_Buzzer_Music
-Buzzer music I started whilst studying at the University of Trinidad &amp; Tobago
+
+Buzzer music using Pulse Width Modulation
 
 Songs included in jukebox.py:
 
