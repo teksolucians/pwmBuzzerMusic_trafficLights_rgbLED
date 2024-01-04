@@ -1,7 +1,7 @@
 # PWM_Buzzer_Music
 Buzzer music I started whilst studying at the University of Trinidad &amp; Tobago
 
-Songs included:
+Songs included in jukebox.py:
 
 1. Mario Bros. Theme Song 
 
@@ -15,3 +15,9 @@ Songs included:
 
 6. Forged From The Love of Liberty
 
+btn1 is to change the song
+btn2 is to terminate the jukebox
+
+
+
+Improvement can be made to button 2 to terminate the playing song instantly
