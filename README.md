@@ -3,15 +3,15 @@ Buzzer music I started whilst studying at the University of Trinidad &amp; Tobag
 
 Songs included:
 
-1. Fur Elise - Beethoven Masterpiece
+1. Mario Bros. Theme Song 
 
-2. Forged From The Love of Liberty
+2. If You Want Me To Go - Farmer Nappy 
 
-3. If You Want Me To Go - Farmer Nappy
+3. Fur Elise - Beethoven Masterpiece
 
-4. Mario Bros. Theme Song
+4. T E M P A - Tempa
 
 5. Children Go To School - Sparrow
 
-6. T E M P A - Tempa
+6. Forged From The Love of Liberty
 
