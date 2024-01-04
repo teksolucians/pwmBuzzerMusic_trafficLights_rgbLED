@@ -3,8 +3,8 @@ import time
 
 
 btn1 = 11
-buzz = 12
-btn2 = 13
+buzz = 7
+btn2 = 12
 
 
 song = 0
@@ -523,8 +523,7 @@ def FurElise():
 
 
 def Liberty():
-    global p
-    
+        
     p.ChangeFrequency(Csharp)		#forged
     p.ChangeDutyCycle(1)
     time.sleep(.5)
@@ -640,81 +639,7 @@ def Liberty():
     time.sleep(2)
     
     
-def liberty2():
-    p.ChangeFrequency(490)
-    p.ChangeDutyCycle(1)
-    time.sleep(.6)
-    p.ChangeDutyCycle(0)
-    time.sleep(.1)
-    p.ChangeFrequency(580)
-    p.ChangeDutyCycle(1)
-    time.sleep(.2)
-    p.ChangeDutyCycle(0)
-    time.sleep(.1)
-    p.ChangeFrequency(680)
-    p.ChangeDutyCycle(1)
-    time.sleep(.45)
-    p.ChangeDutyCycle(0)
-    time.sleep(.075)
-    p.ChangeDutyCycle(1)
-    time.sleep(.4)
-    p.ChangeDutyCycle(0)
-    time.sleep(.003)
-    p.ChangeFrequency(725)
-    p.ChangeDutyCycle(1)
-    time.sleep(.75)
-    p.ChangeDutyCycle(0)
-    time.sleep(.03)
-    p.ChangeFrequency(650)
-    p.ChangeDutyCycle(1)
-    time.sleep(.1)
-    p.ChangeDutyCycle(0)
-    time.sleep(.15)
-    p.ChangeFrequency(680)
-    p.ChangeDutyCycle(1)
-    time.sleep(.9)
-    p.ChangeDutyCycle(0)
-    time.sleep(5)
 
-def liberty1():  #Forged From the Love of Liberty!
-    global p
-    
-    p.ChangeFrequency(Csharp)		
-    p.ChangeDutyCycle(1)
-    time.sleep(.6)
-    p.ChangeDutyCycle(0)
-    time.sleep(.2)
-    p.ChangeDutyCycle(1)			
-    time.sleep(.6)
-    p.ChangeDutyCycle(0)
-    time.sleep(.1)
-    p.ChangeDutyCycle(1)			
-    time.sleep(.10)
-    p.ChangeDutyCycle(0)
-    time.sleep(.05)
-    p.ChangeDutyCycle(1)			
-    time.sleep(.75)
-    p.ChangeDutyCycle(0)
-    time.sleep(.1)
-    p.ChangeFrequency(Dsharp)
-    p.ChangeDutyCycle(1)
-    time.sleep(.75)
-    p.ChangeDutyCycle(0)
-    p.ChangeFrequency(E)
-    p.ChangeDutyCycle(1)
-    time.sleep(1)
-    p.ChangeDutyCycle(0)
-    time.sleep(.15)
-    p.ChangeFrequency(Dsharp)
-    p.ChangeDutyCycle(1)
-    time.sleep(.19)
-    p.ChangeDutyCycle(0)
-    time.sleep(.15)
-    p.ChangeFrequency(Csharp)
-    p.ChangeDutyCycle(1)
-    time.sleep(1)
-    p.ChangeDutyCycle(0)
-    time.sleep(2.5)
     
     
 def Tempa():
