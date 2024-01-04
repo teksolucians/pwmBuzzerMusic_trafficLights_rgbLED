@@ -1,6 +1,6 @@
 # PWM_Buzzer_Music
 
-Buzzer music using Pulse Width Modulation
+Music using Pulse Width Modulation and an Active Buzzer
 
 Songs included in jukebox.py:
 
