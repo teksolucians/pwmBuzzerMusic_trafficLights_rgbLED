@@ -1,4 +1,4 @@
-# PWM_Buzzer_Music
+# PWM_Buzzer_Music     jukebox.py
 
 Music using Pulse Width Modulation and an Active Buzzer
 Songs included in jukebox.py:
@@ -17,7 +17,8 @@ Improvement can be made to button 2 to terminate the playing song instantly
 
 
 
-#buzzer_rgbLed_trafficLights.py
+
+# buzzer_rgbLed_trafficLights.py
 
 Three programs in One python script
 Traffic lights runs in an indefinite while loop
